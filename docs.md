@@ -1,5 +1,5 @@
 This documentation describes how to use the Karel automated
-toothbrush regularly.
+toothbrush everyday or at least regularly.
 
 Note that this toothbrush is totally safe to use for children,
 adults, pets, wildlife, and trees.
